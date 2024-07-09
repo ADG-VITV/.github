@@ -1,1 +1,1 @@
-# .github
+# ADG VIT Github Organization
